@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SportsStore.Models;
+using System;
 
 namespace SportsStore
 {
@@ -48,6 +50,11 @@ namespace SportsStore
                 // włączenie obsługi wzorca MVC
                 app.UseMvc(routes =>
                 {
+                    routes.MapRoute(
+                        name: "pagination",
+                        template: "Produkty/Strona{productPage}",
+                        defaults: new { Controller = "Product", Action = "List" });
+
                     routes.MapRoute(
                         name: "default",
                         template: "{controller=Product}/{action=List}/{id?}");

@@ -5,12 +5,19 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Migrations\20200412162959_Database-initialization.cs" />
-    <Compile Remove="Migrations\20200412162959_Database-initialization.Designer.cs" />
+    <Compile Remove="bower_components - Copy\**" />
+    <Compile Remove="wwwroot\bower_components\**" />
+    <Content Remove="bower_components - Copy\**" />
+    <Content Remove="wwwroot\bower_components\**" />
+    <EmbeddedResource Remove="bower_components - Copy\**" />
+    <EmbeddedResource Remove="wwwroot\bower_components\**" />
+    <None Remove="bower_components - Copy\**" />
+    <None Remove="wwwroot\bower_components\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Compile Remove="Migrations\20200412162959_Database-initialization.cs" />
+    <Compile Remove="Migrations\20200412162959_Database-initialization.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,6 +31,10 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
     <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.1.0-preview1-final" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 </Project>
