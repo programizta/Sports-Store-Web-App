@@ -2,26 +2,13 @@
 
 @foreach (var product in Model.Products)
 {
-    <div class="card m-1 p-1">
-        <div class="card-header">Produkt nr @product.ProductId</div>
-        <div class="card-body">
-            <div class="row">
-                <div class="col-lg-9">
-                    <h3 class="card-title">@product.Name</h3>
-                </div>
-                <div class="col-lg-3" style="float: right;">
-                    <div class="badge badge-pill badge-primary">
-                        <h4>@product.Price.ToString("c")</h4>
-                    </div>
-                </div>
-            </div>
-
-            <p class="card-text">
-                @product.Description
-            </p>
-
-        </div>
-    </div>
+    @Html.Partial("ProductSummary", product);
 }
 
-<div page-model="@Model.PagingInfo" page-action="List" class="btn-group float-left m-1"></div>
+<div page-model="@Model.PagingInfo"
+     page-action="List"
+     page-classes-enabled="true"
+     page-class="btn"
+     page-class-normal="btn-secondary"
+     page-class-selected="btn-primary"
+     class="btn-group float-left m-1"></div>

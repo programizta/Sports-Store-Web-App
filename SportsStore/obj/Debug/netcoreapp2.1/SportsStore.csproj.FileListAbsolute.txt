@@ -27,3 +27,4 @@ C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore\obj\Debug\netcorea
 C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
 C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
