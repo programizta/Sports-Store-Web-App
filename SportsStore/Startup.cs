@@ -51,13 +51,26 @@ namespace SportsStore
                 app.UseMvc(routes =>
                 {
                     routes.MapRoute(
-                        name: "pagination",
-                        template: "Produkty/Strona{productPage}",
+                        name: null,
+                        template: "{category}/Strona{productPage:int}",
                         defaults: new { Controller = "Product", Action = "List" });
 
                     routes.MapRoute(
-                        name: "default",
-                        template: "{controller=Product}/{action=List}/{id?}");
+                        name: null,
+                        template: "Strona{productPage:int}",
+                        defaults: new { Controller = "Product", Action = "List", productPage = 1 });
+
+                    routes.MapRoute(
+                        name: null,
+                        template: "{category}",
+                        defaults: new { Controller = "Product", Action = "List", productPage = 1 });
+
+                    routes.MapRoute(
+                        name: null,
+                        template: "",
+                        defaults: new { Controller = "Product", Action = "List", productPage = 1 });
+
+                    routes.MapRoute(name: null, template: "{controller}/{action}/{id?}");
                 });
 
                 // wypełnienie bazy danych przykładowymi danymi
