@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+uY1TLax8ksYjOC1OjljNUgThSPpf03VbCfDKsX62fiyMDM4OagO6mdMkUaIxmJlqjVu9zqvC+/JigxyzviZAQ==",
+  "dgSpecHash": "YY8KW20ZlvMRJCGEg4ZEg/hCIZbaiv9UksAeLgh9A8DIPr+xkjXesyehA9k/cVqWieS97RG1JAq80+ihljrBtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\SportsStore.csproj",
+  "projectFilePath": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peter\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Peter\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

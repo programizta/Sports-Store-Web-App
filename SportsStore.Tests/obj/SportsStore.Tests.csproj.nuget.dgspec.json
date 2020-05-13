@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
+    "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj": {
+    "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "projectName": "SportsStore.Tests",
-        "projectPath": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectPath": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\SportsStore.csproj": {
-                "projectPath": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\SportsStore.csproj"
+              "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\SportsStore.csproj": {
+                "projectPath": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\SportsStore.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\Peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peter\\Desktop\\Programming\\C#\\SportsStore\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\Peter\\Desktop\\Programming sh!t\\Projects\\C#\\SportsStore\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
