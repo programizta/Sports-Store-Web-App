@@ -60,3 +60,4 @@ C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs

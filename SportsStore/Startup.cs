@@ -33,6 +33,12 @@ namespace SportsStore
 
             // rejestracja serwisu odpowiedzialnego za wzorzec MVC
             services.AddMvc();
+
+            // dodanie cache'owania sesji
+            services.AddMemoryCache();
+
+            // rejestrowanie sesji po stronie klienta
+            services.AddSession();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +52,9 @@ namespace SportsStore
 
                 // uruchomienie obsługi plików statycznych
                 app.UseStaticFiles();
+
+                // uruchomienie rejestrowania sesji
+                app.UseSession();
 
                 // włączenie obsługi wzorca MVC
                 app.UseMvc(routes =>
