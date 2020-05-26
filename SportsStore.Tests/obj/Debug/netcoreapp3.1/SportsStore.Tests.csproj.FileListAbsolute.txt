@@ -185,13 +185,13 @@ C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore.Tests\bin\Debug\ne
 C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
 C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.dll
 C:\Users\Peter\Desktop\Programming\C#\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp3.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
+C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
-C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Views.dll
-C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Views.pdb
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Tests.deps.json
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Tests.runtimeconfig.json
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp3.1\SportsStore.Tests.runtimeconfig.dev.json

@@ -38,7 +38,6 @@ C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\bin\
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.pdb
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.dll
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\bin\Debug\netcoreapp2.1\SportsStore.Views.pdb
-C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
@@ -47,6 +46,7 @@ C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.input.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.TagHelpers.output.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
@@ -60,4 +60,3 @@ C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.pdb
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.genruntimeconfig.cache
 C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\SportsStore.csproj.CopyComplete
-C:\Users\Peter\Desktop\Programming sh!t\Projects\C#\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
