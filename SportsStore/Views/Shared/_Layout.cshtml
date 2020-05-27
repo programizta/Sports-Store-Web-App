@@ -4,12 +4,18 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/*.css" />
     <title>Sklep sportowy</title>
 </head>
 <body>
-    <nav class="navbar navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Sklep sportowy</a>
-    </nav>
+    <div class="navbar navbar-dark bg-dark" role="navigation">
+        <div class="row">
+            <a class="col navbar-brand" href="#">Sklep sportowy</a>
+            <div class="col-4 text-right">
+                @await Component.InvokeAsync("CartSummary")
+            </div>
+        </div>
+    </div>
     <div class="row m-1 p-1">
         <div id="categories" col-3>
             @await Component.InvokeAsync("NavigationMenu")
